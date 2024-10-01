@@ -1,9 +1,9 @@
 # Kubernetes Optimizations Techniques
   # Overview
-  Kubernetes has fundamentally transformed how we manage containerized applications, providing a highly scalable, automated, and resilient framework for deployment and operations. As more 
-  organizations integrate Kubernetes into their infrastructure, the need to optimize its functionality becomes increasingly critical. By leveraging strategic Kubernetes optimizations, 
-  organizations can significantly boost operational efficiency, tighten security controls, and enhance the overall manageability of their containerized workloads. In this guide, 
-  I’ll dive some advanced Kubernetes optimizations techniques that can boost your Kubernetes operational efficiency.
+    Kubernetes has fundamentally transformed how we manage containerized applications, providing a highly scalable, automated, and resilient framework for deployment and operations. 
+    As more organizations integrate Kubernetes into their infrastructure, the need to optimize its functionality becomes increasingly critical. By leveraging strategic Kubernetes 
+    optimizations, organizations can significantly boost operational efficiency, tighten security controls, and enhance the overall manageability of their containerized workloads. 
+    In this guide, I’ll dive into some advanced Kubernetes optimizations techniques that can boost your Kubernetes operational efficiency.
 
 # 1. Pod Presets
   In Kubernetes Pod Presets are used to automatically introduce additional information such as environment variables, volume mounts, and secrets into pods at the time of their creation. 
